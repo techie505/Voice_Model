@@ -1,0 +1,9 @@
+node_modules
+# Ignore large or sensitive files/folders
+models/
+recordings/
+mood_env/
+frontend/temp_audio.wav
+*.h5
+*.pkl
+*.wav
